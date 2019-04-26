@@ -10,8 +10,8 @@ Contoh Implementasi Repository Pattern Pada Framework Laravel
 6. jalankan perintah php artisan migrate untuk membuat database
 
 ## Cara Import Data Dummy ( Opsional )
-*Jalankan Perintah php artisan db:seed Untuk Membuat Data Dummy<br>
-*Jalankan Build Ini Server Dengan Perintah php artisan serve
+* Jalankan Perintah php artisan db:seed Untuk Membuat Data Dummy<br>
+* aJalankan Build Ini Server Dengan Perintah php artisan serve
 
 ## Akun Untuk Login
 Email : nuris.akbar@gmail.com
