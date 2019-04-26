@@ -9,9 +9,9 @@ Contoh Implementasi Repository Pattern Pada Framework Laravel
 5. setting koneksi database pada file .env
 6. jalankan perintah php artisan migrate untuk membuat database
 
-## Import Data Dummy ( Opsional )
-Jalankan Perintah php artisan db:seed Untuk Membuat Data Dummy<br>
-Jalankan Build Ini Server Dengan Perintah php artisan serve
+## Cara Import Data Dummy ( Opsional )
+*Jalankan Perintah php artisan db:seed Untuk Membuat Data Dummy<br>
+*Jalankan Build Ini Server Dengan Perintah php artisan serve
 
 ## Akun Untuk Login
 Email : nuris.akbar@gmail.com
